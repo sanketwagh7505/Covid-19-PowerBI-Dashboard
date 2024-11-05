@@ -39,4 +39,5 @@ This report is powered by data from credible public sources, typically updated a
 
 This Power BI report provides a comprehensive view of the COVID-19 pandemic, allowing for in-depth analysis of its trends and impact. The insights derived here are valuable for researchers, policymakers, and healthcare organizations in understanding and combating the spread of the virus.
 
+![image](https://github.com/user-attachments/assets/18ad857e-fbd4-4a48-8287-bbf41c56ea7a)
 
