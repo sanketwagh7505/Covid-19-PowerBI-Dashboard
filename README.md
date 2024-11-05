@@ -47,5 +47,5 @@ This Power BI report provides a comprehensive view of the COVID-19 pandemic, all
 ## Dashboard Image
 
 
-![image](https://github.com/user-attachments/assets/18ad857e-fbd4-4a48-8287-bbf41c56ea7a)
+**For the preview of the Covid-19 Dashboard Project click on the link : [Project Image]
 
